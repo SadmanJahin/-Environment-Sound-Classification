@@ -1,8 +1,13 @@
-Author:Sadman Jahin
-Project:Audio Classification for environmental sounds.
+
+## Project:Audio Classification for environmental sounds.
+### Author:Sadman Jahin
+ 
+##### Dataset is created from freesound.org,Urban8K
+##### 120 datasets are created.
+
+### Description
+
 Models used are ANN,KNN,CNN
-Dataset is created from freesound.org
-120 datasets are created.
 
 ANN and KNN Classification MFCC is used
 For CNN Spectogram is used.
